@@ -1,0 +1,25 @@
+{
+  "name": "bonelite",
+  "version": "0.0.1",
+  "description": "A cut down node.js Beaglebone Black hardware interface - like Bonescript but only does a fraction of the functionality.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shrkey/bonelite.git"
+  },
+  "keywords": [
+    "beaglebone",
+    "gpio",
+    "pwm",
+    "i2c",
+    "serial"
+  ],
+  "author": "Shrkey",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/shrkey/bonelite/issues"
+  }
+}
